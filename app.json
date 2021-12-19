@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "khana-app",
+    "icon": "./assets/logo.png",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "green"
+    },
+    "slug": "khana-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": ""
+  },
+  "name": "khana-app"
+}
